@@ -1,0 +1,2 @@
+df_data2406498900.columns = ['Nama', 'Tgs1', 'Tgs2', 'Tgs3', 'Tgs4', 'Tgs5', 'Rata2']
+print(df_data2406498900)
